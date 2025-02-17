@@ -1,0 +1,12 @@
+name: Gayatri
+age: 30
+city: Benagluru
+is_student: true
+grade:
+  - subject: Math
+    grade: A
+  - subject: English 
+    grade: A
+  - subject: Scienece
+    grade: A
+    
