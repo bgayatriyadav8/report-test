@@ -4,9 +4,9 @@ city: Benagluru
 is_student: true
 grade:
   - subject: Math
-    grade: y
+    grade: z
   - subject: English 
-    grade: y
+    grade: z
   - subject: Scienece
-    grade: y
+    grade: z
 
